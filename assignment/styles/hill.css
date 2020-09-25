@@ -4,13 +4,21 @@
     */
 
 body {
+<<<<<<< Updated upstream
     background: #FFDFD1; /* must change */
     color: #000; /* may be #000 or #fff */
+=======
+    background: #333; /* must change */
+    color: #fff; /* may be #000 or #fff */
+>>>>>>> Stashed changes
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
 
 article {
+<<<<<<< Updated upstream
     background: #F5C9CD;
+=======
+>>>>>>> Stashed changes
     width: 800px; /* keep */
     padding: 20px; /* keep */
     margin: auto; /* keep */
@@ -19,6 +27,7 @@ article {
 
 /* --- ADD YOUR STYLES BELOW --- */
 
+<<<<<<< Updated upstream
 header {
   background: #F5CEC8;
   color: #000;
@@ -47,3 +56,6 @@ a:visited {color: #4F1301}
 a:focus {color: #2E1C1C}
 a:hover {color: #990003}
 a:active {color: #4F0809}
+=======
+/* --- add your PSEUDO CLASSES below this line --- */
+>>>>>>> Stashed changes
